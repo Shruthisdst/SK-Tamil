@@ -3,7 +3,7 @@
 
 <SKTML>
 	<volume vnum="001">
-		<issue inum="03" month="09" year="0000" info="விகாரி: புரட்டாசி">
+		<issue inum="03" month="09" year="" info="விகாரி: புரட்டாசி">
 			<entry>
 				<title>அறிவிப்பு</title>
 				<feature></feature>
@@ -129,7 +129,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="07" month="01" year="0000" info="விகாரி: தை">
+		<issue inum="07" month="01" year="" info="விகாரி: தை">
 			<entry>
 				<title>அறிவிப்பு</title>
 				<feature></feature>
@@ -301,7 +301,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="11" month="05" year="0000" info="சார்வரி: வைகாசி">
+		<issue inum="11" month="05" year="" info="சார்வரி: வைகாசி">
 			<entry>
 				<title>அறிவிப்பு</title>
 				<feature></feature>
@@ -411,7 +411,7 @@
 		</issue>
 	</volume>
 	<volume vnum="002">
-		<issue inum="01" month="07" year="0000" info="சார்வரி: ஆடி">
+		<issue inum="01" month="07" year="" info="சார்வரி: ஆடி">
 			<entry>
 				<title>ஸ்ரீ சாரதா புஜங்கம்</title>
 				<feature></feature>
@@ -522,7 +522,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="02" month="08" year="0000" info="சார்வரி: ஆவணி">
+		<issue inum="02" month="08" year="" info="சார்வரி: ஆவணி">
 			<entry>
 				<title>படங்கள் - சென்னைமாநகரில் ஸ்ரீ மகாஸ்வாமிகளுக்கு வரவேற்பு</title>
 				<feature></feature>
@@ -653,7 +653,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="03" month="09" year="0000" info="சார்வரி: புரட்டாசி">
+		<issue inum="03" month="09" year="" info="சார்வரி: புரட்டாசி">
 			<entry>
 				<title>ஸ்ரீ சாரதா புஜங்கம்</title>
 				<feature></feature>
@@ -804,7 +804,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="04" month="10" year="0000" info="சார்வரி: ஐப்பசி">
+		<issue inum="04" month="10" year="" info="சார்வரி: ஐப்பசி">
 			<entry>
 				<title>படம் - ஸ்ரீ மகா ஸ்வாமிகள் நவராத்ரி தர்பாருக்கு விஜயம் செய்யும்</title>
 				<feature></feature>
@@ -953,7 +953,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="05" month="11" year="0000" info="சார்வரி: கார்த்திகை">
+		<issue inum="05" month="11" year="" info="சார்வரி: கார்த்திகை">
 			<entry>
 				<title>ஸ்ரீ சாரதா புஜங்கம்</title>
 				<feature></feature>
@@ -1058,7 +1058,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="06" month="12" year="0000" info="சார்வரி: மார்கழி">
+		<issue inum="06" month="12" year="" info="சார்வரி: மார்கழி">
 			<entry>
 				<title>ஸ்ரீ ஜகத்குரு நவரத்ன மாலா ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -1173,7 +1173,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="07" month="01" year="0000" info="சார்வரி: தை">
+		<issue inum="07" month="01" year="" info="சார்வரி: தை">
 			<entry>
 				<title>ஸ்ரீ ஜகத்குரு ஸ்தோத்ரம் - 2</title>
 				<feature></feature>
@@ -1329,7 +1329,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="08" month="02" year="0000" info="சார்வரி: மாசி">
+		<issue inum="08" month="02" year="" info="சார்வரி: மாசி">
 			<entry>
 				<title>ஸ்ரீ ஸ்வயம்வரா பார்வதீ ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -1471,7 +1471,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="09" month="03" year="0000" info="சார்வரி: பங்குனி">
+		<issue inum="09" month="03" year="" info="சார்வரி: பங்குனி">
 			<entry>
 				<title>ஸ்ரீ ஸ்வயம்வரா பார்வதீ ஸ்தோத்ரம்</title>
 				<feature></feature>
@@ -1599,7 +1599,7 @@
 		</issue>
 	</volume>
 	<volume vnum="003">
-		<issue inum="01" month="07" year="0000" info="பிலவ: ஆடி">
+		<issue inum="01" month="07" year="" info="பிலவ: ஆடி">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -1749,7 +1749,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="03" month="09" year="0000" info="பிலவ: புரட்டாசி">
+		<issue inum="03" month="09" year="" info="பிலவ: புரட்டாசி">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -1879,7 +1879,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="04" month="10" year="0000" info="பிலவ: ஐப்பசி">
+		<issue inum="04" month="10" year="" info="பிலவ: ஐப்பசி">
 			<entry>
 				<title>பிரார்த்தனை (பக்திஸுதாதரங்கிணீ)</title>
 				<feature></feature>
@@ -2003,7 +2003,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="06" month="12" year="0000" info="பிலவ: மார்கழி">
+		<issue inum="06" month="12" year="" info="பிலவ: மார்கழி">
 			<entry>
 				<title>பிரார்த்தனை (காலடி ஸ்ரீ சாரதாம்பாள் ஸ்தோத்திரம்)</title>
 				<feature></feature>
@@ -27201,7 +27201,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="02" month="00" year="0000" info="">
+		<issue inum="02" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27277,7 +27277,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="03" month="00" year="0000" info="">
+		<issue inum="03" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27391,7 +27391,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="04" month="00" year="0000" info="">
+		<issue inum="04" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27495,7 +27495,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="05" month="00" year="0000" info="">
+		<issue inum="05" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27551,7 +27551,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="06" month="00" year="0000" info="">
+		<issue inum="06" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27639,7 +27639,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="07" month="00" year="0000" info="">
+		<issue inum="07" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27703,7 +27703,7 @@
 				</allauthors>
 			</entry>
 		</issue>
-		<issue inum="08" month="00" year="0000" info="">
+		<issue inum="08" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27779,7 +27779,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="09" month="00" year="0000" info="">
+		<issue inum="09" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27841,7 +27841,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="10" month="00" year="0000" info="">
+		<issue inum="10" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27889,7 +27889,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="11" month="00" year="0000" info="">
+		<issue inum="11" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
@@ -27979,7 +27979,7 @@
 				<allauthors />
 			</entry>
 		</issue>
-		<issue inum="12" month="00" year="0000" info="">
+		<issue inum="12" month="" year="" info="">
 			<entry>
 				<title>பிரார்த்தனை (ஸௌந்தர்யலஹரீ)</title>
 				<feature></feature>
