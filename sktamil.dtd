@@ -7,7 +7,8 @@
 <!ATTLIST issue year CDATA #REQUIRED>
 <!ATTLIST issue info CDATA #REQUIRED>
 <!ELEMENT entry (title,feature,page,allauthors*)>
-<!ELEMENT title (#PCDATA)>
+<!ELEMENT title (#PCDATA|i)*>
+<!ELEMENT i (#PCDATA)>
 <!ELEMENT feature (#PCDATA)>
 <!ELEMENT page (#PCDATA)>
 <!ELEMENT allauthors (author*)>
