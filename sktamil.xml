@@ -708,7 +708,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>கீத ஸந்தேசம் - 3 (கீதைக்கடிதங்கள்)</title> 
+				<title>கீத ஸந்தேசம் - 3 (கீதைக் கடிதங்கள்)</title> 
 				<feature></feature>
 				<page>0017-0019</page>
 				<allauthors>
@@ -978,7 +978,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>கீத ஸந்தேசம் - 5 (கீதைக்கடிதங்கள்)</title>
+				<title>கீத ஸந்தேசம் - 5 (கீதைக் கடிதங்கள்)</title>
 				<feature></feature>
 				<page>0011-0014</page>
 				<allauthors>
@@ -1082,7 +1082,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>கீத ஸந்தேசம் - 6 (கீதைக்கடிதங்கள்)</title>
+				<title>கீத ஸந்தேசம் - 6 (கீதைக் கடிதங்கள்)</title>
 				<feature></feature>
 				<page>0011-0013</page>
 				<allauthors>
@@ -1106,7 +1106,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>பாவைப்பாட்டு</title>
+				<title>பாவைப் பாட்டு</title>
 				<feature></feature>
 				<page>0025-0033</page>
 				<allauthors>
@@ -1189,7 +1189,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>சிருங்கேரி ஸ்ரீ மஹாஸ்வாமிகளின் உபதேசம்</title>
+				<title>சிருங்கேரி ஸ்ரீ மஹா ஸ்வாமிகளின் உபதேசம்</title>
 				<feature></feature>
 				<page>0008-0008</page>
 				<allauthors />
@@ -1227,7 +1227,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>அத்வைத சாஸ்திரத்தில் ப்ரஹ்ம தத்வம்</title>
+				<title>அத்வைத சாஸ்திரத்தில் பிரம்ம தத்வம்</title>
 				<feature></feature>
 				<page>0028-0029</page>
 				<allauthors>
@@ -1251,7 +1251,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>சிறுவர் பக்கம் - I - உங்களுக்குத்தெரியுமா ?</title>
+				<title>சிறுவர் பக்கம் - I - உங்களுக்குத் தெரியுமா ?</title>
 				<feature></feature>
 				<page>0035-0035</page>
 				<allauthors>
@@ -1297,7 +1297,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>பஞ்ச்தசீ</title>
+				<title>பஞ்சதசீ</title>
 				<feature></feature>
 				<page>0040aq-0040at</page>
 				<allauthors />
@@ -1343,7 +1343,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>கீத ஸந்தேசம் - 8 (கீதைக்கடிதங்கள்)</title>
+				<title>கீத ஸந்தேசம் - 8 (கீதைக் கடிதங்கள்)</title>
 				<feature></feature>
 				<page>0009-0012</page>
 				<allauthors>
@@ -1383,12 +1383,10 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>உங்களுக்குத்தெரியுமா ?</title>
+				<title>உங்களுக்குத் தெரியுமா ?</title>
 				<feature></feature>
 				<page>0031-0032</page>
-				<allauthors>
-					<author type="1" sal=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>அபிராமி அந்தாதி விளக்கம் - உள்ளத்தில் பொருந்துக</title>
@@ -1517,7 +1515,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>உங்களுக்குத்தெரியுமா ?</title>
+				<title>உங்களுக்குத் தெரியுமா ?</title>
 				<feature></feature>
 				<page>0023-0024</page>
 				<allauthors>
@@ -1525,7 +1523,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ தேவீ பாகவத க்கதைகள்</title>
+				<title>ஸ்ரீ தேவீ பாகவதக் கதைகள்</title>
 				<feature></feature>
 				<page>0024-0027</page>
 				<allauthors>
@@ -1613,7 +1611,7 @@
 				<allauthors />
 			</entry>
 			<entry>
-				<title>கீத ஸந்தேசம் - 12 (கீதைக்க்டிதங்கள்)</title>
+				<title>கீத ஸந்தேசம் - 12 (கீதைக் கடிதங்கள்)</title>
 				<feature></feature>
 				<page>0004-0007</page>
 				<allauthors>
@@ -1939,7 +1937,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>இது உங்களுக்கு த்தெரியுமா ?</title>
+				<title>இது உங்களுக்குத் தெரியுமா ?</title>
 				<feature></feature>
 				<page>0040-0040</page>
 				<allauthors>
@@ -2049,7 +2047,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>அபிராமி அந்தாதி விளக்கம் - மாபெருந்தெய்வம்</title>
+				<title>அபிராமி அந்தாதி விளக்கம் - மாபெருந் தெய்வம்</title>
 				<feature></feature>
 				<page>0029-0033</page>
 				<allauthors>
@@ -2694,7 +2692,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>லோகசங்கரர்</title>
+				<title>லோக சங்கரர்</title>
 				<feature></feature>
 				<page>0198-0208</page>
 				<allauthors>
@@ -2705,9 +2703,7 @@
 				<title>குறிப்புகள்</title>
 				<feature></feature>
 				<page>0208ac-0208al</page>
-				<allauthors>
-					<author type="1" sal=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>இந்த இதழில்</title>
@@ -2940,7 +2936,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>லோகசங்கரர்</title>
+				<title>லோக சங்கரர்</title>
 				<feature></feature>
 				<page>0289-0299</page>
 				<allauthors>
@@ -3058,7 +3054,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>லோகசங்கரர்</title>
+				<title>லோக சங்கரர்</title>
 				<feature></feature>
 				<page>0337-0351</page>
 				<allauthors>
@@ -3080,7 +3076,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ லலிதா ஸஹஸ்ரநாம ஸ்தோத்ரம் (அகவல்)</title>
+				<title>ஸ்ரீ லலிதா ஸஹஸ்ரநாம ஸ்தோத்திரம் (அகவல்)</title>
 				<feature></feature>
 				<page>0352ae-0352ah</page>
 				<allauthors>
@@ -3178,7 +3174,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஆலயச்சிறப்பு</title>
+				<title>ஆலயச் சிறப்பு</title>
 				<feature></feature>
 				<page>0386-0390</page>
 				<allauthors>
@@ -3225,9 +3221,7 @@
 				<title>சிருங்கேரி ஸ்ரீ ஜகத்குரு ஸ்ரீ சந்திரசேகரபாரதீ ஸ்வாமிகள் அஷ்டோத்தரம்</title>
 				<feature></feature>
 				<page>0392ay-0392bf</page>
-				<allauthors>
-					<author type="1" sal=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>இந்த இதழில்</title>
@@ -3238,7 +3232,7 @@
 		</issue>
 		<issue inum="09" month="03" year="1963" info="சுபகிருது: பங்குனி">
 			<entry>
-				<title>பிரார்த்தனை (ஸ்ரீராமாஷ்டப்ராஸஸ்தவம்)</title>
+				<title>பிரார்த்தனை (ஸ்ரீ ராமாஷ்டப்ராஸஸ்தவம்)</title>
 				<feature></feature>
 				<page>0393-0393</page>
 				<allauthors />
@@ -3274,7 +3268,7 @@
 			<entry>
 				<title>ஸ்ரீ சிருங்கேரி ஸ்வாமிகளின் தெய்விகத்தன்மை</title>
 				<feature></feature>
-				<page>0424-0425</page>
+				<page>0425-0425</page>
 				<allauthors>
 					<author type="1" sal="">ராமசுப்பன், ரா. சு.</author>
 				</allauthors>
@@ -3447,7 +3441,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸமிதியின் நோக்கங்கள் - பொதுக்காரியதரிசியின் கடிதம்</title>
+				<title>ஸமிதியின் நோக்கங்கள் - பொதுக் காரியதரிசியின் கடிதம்</title>
 				<feature></feature>
 				<page>0476at-0476au</page>
 				<allauthors>
@@ -3458,9 +3452,7 @@
 				<title>குறிப்புகள்</title>
 				<feature></feature>
 				<page>0476av-0476ba</page>
-				<allauthors>
-					<author type="1" sal=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>இந்த இதழில்</title>
@@ -3573,9 +3565,7 @@
 				<title>குறிப்புகள்</title>
 				<feature></feature>
 				<page>0520am-0520bc</page>
-				<allauthors>
-					<author type="1" sal=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</issue>
 		<issue inum="12" month="06" year="1963" info="சோபகிருத்: ஆனி">
@@ -3678,7 +3668,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீ சிருங்கேரி ஜகத்குருக்களும் தமிழ்நாட்டுக்கோவில்களும் (ராமேசுவரமும், மதுதையும்)</title>
+				<title>ஸ்ரீ சிருங்கேரி ஜகத்குருக்களும் தமிழ்நாட்டுக் கோவில்களும் (ராமேசுவரமும், மதுதையும்)</title>
 				<feature></feature>
 				<page>0564au-0564ba</page>
 				<allauthors />
@@ -3762,7 +3752,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>லோகசங்கரர்</title>
+				<title>லோக சங்கரர்</title>
 				<feature></feature>
 				<page>0042-0047</page>
 				<allauthors>
@@ -3778,7 +3768,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஆத்ம தத்வவிளக்கம்</title>
+				<title>ஆத்ம தத்வ விளக்கம்</title>
 				<feature></feature>
 				<page>0050-0054</page>
 				<allauthors>
@@ -3786,7 +3776,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>பாஷ்ய காம்பீர்யம்</title>
+				<title>பாஷ்யகாம்பீர்யம்</title>
 				<feature></feature>
 				<page>0055-056</page>
 				<allauthors />
@@ -3880,7 +3870,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>லோகசங்கரர்</title>
+				<title>லோக சங்கரர்</title>
 				<feature></feature>
 				<page>0082-0090</page>
 				<allauthors>
@@ -4066,7 +4056,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>காத்திருந்த மனிவர்</title>
+				<title>காத்திருந்த முனிவர்</title>
 				<feature></feature>
 				<page>0161-0163</page>
 				<allauthors>
@@ -4110,9 +4100,7 @@
 				<title>ஸ்ரீ சிருங்கேரி ஜகத்குருக்களும் தமிழ்நாடும் (மானாமதுரை தஸ்தாவேஜு)</title>
 				<feature></feature>
 				<page>0164am-0164am</page>
-				<allauthors>
-					<author type="1" sal=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ஸ்ரீ கணபதி வாக்யார்த்த ஸபை, சிருங்கேரி</title>
@@ -4202,7 +4190,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ஸ்ரீஸத்குரு கீர்த்தனை</title>
+				<title>ஸ்ரீ ஸத்குரு கீர்த்தனை</title>
 				<feature></feature>
 				<page>0177-0178</page>
 				<allauthors>
@@ -4274,7 +4262,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>லோகசங்கரர்</title>
+				<title>லோக சங்கரர்</title>
 				<feature></feature>
 				<page>0203-0211</page>
 				<allauthors>
