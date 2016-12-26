@@ -37,6 +37,7 @@ if($num_rows > 0)
 		$dpart = preg_replace("/^0/", "", $row['part']);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
 		$info = '';
+		$titleid = $row['titleid']
 		if($row['month'] != '')
 		{
 			$info = $info . getMonth($row['month']);
@@ -60,7 +61,7 @@ if($num_rows > 0)
 		echo '	<div class="gapBelowSmall">';
 		echo '		<span class="aIssue clr5"><a href="toc.php?vol=' . $row['volume'] . '&amp;part=' . $row['part'] . '">ಸಂಪುಟ ' . toKannada(intval($row['volume'])) . ', ಸಂಚಿಕೆ ' . toKannada($dpart) . ' <span class="font_resize">(' . $info . ')</span></a></span>';
 		echo '	</div>';
-		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
+		echo '	<span class="aTitle"><a target="_blank" href="../Volumes/djvu/' . $row['volume'] . '/' . $row['part'] . '/index.djvu?djvuopts&amp;page=' . $row['page'] . '.djvu&amp;zoom=page">' . $row['title'] . '</a></span><br />';
 		if($row['authid'] != 0)
 		{
 			echo '	<span class="aAuthor">&nbsp;&mdash;';
@@ -72,8 +73,9 @@ if($num_rows > 0)
 				echo '<a href="auth.php?authid=' . $aid . '&amp;author=' . urlencode($authornames[$a]) . '">' . $authornames[$a] . '</a> ';
 				$a++;
 			}
-			echo '	</span>';
+			echo '	</span><br/>';
 		}
+		echo '<span class="downloadspan"><a target="_blank" href="downloadPdf.php?titleid='.$titleid.'">Download Pdf</a></span>';
 		echo '</div>';
 	}
 }
