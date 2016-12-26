@@ -65,7 +65,7 @@ if($num_rows > 0)
 		$query3 = 'select feat_name from feature where featid=\'' . $row['featid'] . '\'';
 		$result3 = $db->query($query3); 
 		$row3 = $result3->fetch_assoc();
-		
+		$titleid = $row['titleid'];
 		$dissue = preg_replace("/^0/", "", $row['issue']);
 		$dissue = preg_replace("/\-0/", "-", $dissue);
 		
@@ -86,8 +86,9 @@ if($num_rows > 0)
 				$a++;
 			}
 			
-			echo '</span>';
+			echo '</span><br/>';
 		}
+		echo '<span class="downloadspan"><a target="_blank" href="downloadPdf.php?titleid='.$titleid.'">Download Pdf</a></span>';
 		echo '</div>';
 	}
 }

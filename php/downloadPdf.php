@@ -13,7 +13,7 @@
 		$str = '';
 		$page = $page_start . "_" . $page_end;
 		$pdfList = '';
-		$query1 = "select cur_page from testocr where volume = '$volume' and part = '$part' and cur_page between '$page_start' and '$page_end'";
+		$query1 = "select cur_page from ocr where volume = '$volume' and part = '$part' and cur_page between '$page_start' and '$page_end'";
 		$result1 = $db->query($query1) or die("query problem"); 
 		
 		while($row = $result1->fetch_assoc())

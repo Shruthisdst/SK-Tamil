@@ -37,6 +37,7 @@ if($num_rows > 0)
 		$dpart = preg_replace("/^0/", "", $row['part']);
 		$dpart = preg_replace("/\-0/", "-", $dpart);
 		$info = '';
+		$titleid = $row['titleid']
 		if($row['month'] != '')
 		{
 			$info = $info . getMonth($row['month']);
@@ -72,8 +73,9 @@ if($num_rows > 0)
 				echo '<a href="auth.php?authid=' . $aid . '&amp;author=' . urlencode($authornames[$a]) . '">' . $authornames[$a] . '</a> ';
 				$a++;
 			}
-			echo '	</span>';
+			echo '	</span><br/>';
 		}
+		echo '<span class="downloadspan"><a target="_blank" href="downloadPdf.php?titleid='.$titleid.'">Download Pdf</a></span>';
 		echo '</div>';
 	}
 }
