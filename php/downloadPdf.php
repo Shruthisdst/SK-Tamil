@@ -22,7 +22,7 @@
 		}
 		//~ $temp = '../ReadWrite/Shankara_Krupa_' . time() . '_' . rand(1,9999) . '.pdf'; 
 		
-		$downloadURL = '../ReadWrite/Tattvaloka_' . $volume . '_' . $part . '_' . $page . '.pdf';
+		$downloadURL = '../ReadWrite/Shankara_Krupa_' . $volume . '_' . $part . '_' . $page . '.pdf';
 		system ('pdftk ' . $pdfList . ' cat output ' . $downloadURL);
 		//~ system ('pdfopt ' . $temp . ' ' . $downloadURL);
 	}
